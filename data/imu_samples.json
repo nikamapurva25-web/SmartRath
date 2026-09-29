@@ -1,0 +1,12 @@
+{
+  "samples": [
+    {"accel_g": 0.18},
+    {"accel_g": 0.24},
+    {"accel_g": 0.31},
+    {"accel_g": 1.82},
+    {"accel_g": 0.27},
+    {"accel_g": 0.22},
+    {"accel_g": 1.67},
+    {"accel_g": 0.19}
+  ]
+}

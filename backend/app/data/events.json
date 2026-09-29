@@ -1,0 +1,50 @@
+[
+  {
+    "id": "EV001",
+    "type": "Pothole",
+    "location": "MG Road",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "confidence": 94,
+    "severity": "High",
+    "status": "Pending",
+    "route": "102",
+    "timestamp": "10:32:14 AM"
+  },
+  {
+    "id": "EV002",
+    "type": "Traffic Congestion",
+    "location": "FC Road",
+    "lat": 18.5236,
+    "lng": 73.8478,
+    "confidence": 89,
+    "severity": "Medium",
+    "status": "Active",
+    "route": "101",
+    "timestamp": "10:35:22 AM"
+  },
+  {
+    "id": "EV003",
+    "type": "Road Damage",
+    "location": "Shivaji Nagar",
+    "lat": 18.5308,
+    "lng": 73.8475,
+    "confidence": 91,
+    "severity": "High",
+    "status": "Pending",
+    "route": "103",
+    "timestamp": "10:38:51 AM"
+  },
+  {
+    "id": "EV004",
+    "type": "Pothole",
+    "location": "Kothrud",
+    "lat": 18.5074,
+    "lng": 73.8077,
+    "confidence": 96,
+    "severity": "High",
+    "status": "Resolved",
+    "route": "104",
+    "timestamp": "10:42:10 AM"
+  }
+]

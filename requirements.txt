@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+paho-mqtt
+numpy
+scikit-learn
+opencv-python
+onnxruntime

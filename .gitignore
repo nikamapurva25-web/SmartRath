@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Local databases and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+whatsapp-session*
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Local media / captures
+media/
+captures/
+*.mp4
+*.mov
+*.avi
+
+# Node / frontend output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+npm-debug.log*
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

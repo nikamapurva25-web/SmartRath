@@ -1,0 +1,6 @@
+pothole_severe
+pothole_mild
+signage_damage
+waterlogging
+vehicle
+pedestrian_risk
