@@ -1,6 +1,6 @@
 # SmartRath — HexaBytes | SIH26124
 
-**SmartRath** is HexaBytes' Smart India Hackathon prototype for problem
+**SmartRath** is Team HexaBytes' Smart India Hackathon prototype for problem
 statement **SIH26124**: an offline-feasible urban intelligence platform for
 road hazard reporting, public transport monitoring, and commuter safety.
 
@@ -60,8 +60,6 @@ performance.
 | Team | **HexaBytes** |
 | Hackathon problem statement | **SIH26124** |
 
-Please replace this table with team member names and official SIH details only
-after confirming them with the full team.
 
 ## Architecture
 
@@ -674,7 +672,7 @@ and should only be used when a completely clean broker state is desired.
 
 ## Privacy, safety, and limitations
 
-- Use only footage, plate data, and recipient numbers that your team is
+- Uses only footage, plate data, and recipient numbers that our team is
   authorized to process. Keep real camera footage and personally identifying
   data out of this repository.
 - The included ONNX fixture emits static example detections. It is for
